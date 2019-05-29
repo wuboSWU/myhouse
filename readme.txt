@@ -4,3 +4,5 @@ Change the config to true again.
 test the 'git status' and 'git diff'.
 new line.
 new second line.
+new third line.
+new fourth line.
