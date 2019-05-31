@@ -10,3 +10,4 @@ test push
 new push
 branch test
 dev branch test~
+test --no--ff
