@@ -11,4 +11,8 @@ new push
 branch test
 dev branch test~
 test --no--ff
+<<<<<<< Updated upstream
 test --no--ff
+=======
+stash test
+>>>>>>> Stashed changes
