@@ -11,3 +11,4 @@ new push
 branch test
 dev branch test~
 test --no--ff
+test --no--ff
